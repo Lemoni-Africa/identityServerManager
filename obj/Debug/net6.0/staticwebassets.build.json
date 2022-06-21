@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "lMW3As2+5VC4A0SsNwqyNzSnyByYO1seBbc4igMV8oU=",
+  "Source": "OnePaySystem.IdentityServer",
+  "BasePath": "_content/OnePaySystem.IdentityServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
